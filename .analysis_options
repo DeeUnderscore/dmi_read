@@ -1,0 +1,7 @@
+analyzer:
+  strong-mode: true
+
+linter:
+  - constant_identifier_names
+  - camel_case_types
+  - package_api_docs
